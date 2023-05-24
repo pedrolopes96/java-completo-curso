@@ -14,7 +14,5 @@ public class Ex004 {
 
         //Impressão de valores
         System.out.println("Você digitou: " + a);
-
-        
     }
 }
